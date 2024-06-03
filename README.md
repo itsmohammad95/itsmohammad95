@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammadreza
-- I’m interested in applications of
+- I’m interested in the applications of
 - quantum computing in condensed matter physics.
 - I’m currently learning to solve problems with
 - DWave ocean SDK.
